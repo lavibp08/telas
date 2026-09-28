@@ -1,0 +1,14 @@
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe.config
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.exe
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\bin\Debug\CadastroCliente.pdb
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.AssemblyReference.cache
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.atualizar.resources
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.cadastrar.resources
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.consultar.resources
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.encerrar.resources
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.cliente.resources
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.Properties.Resources.resources
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.GenerateResource.cache
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.exe
+C:\Users\lavinia.bpereira\source\repos\CadastroCliente\CadastroCliente\obj\Debug\CadastroCliente.pdb
