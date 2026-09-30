@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\encerrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\encerrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\encerrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\encerrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\encerrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\encerrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\atualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\consultar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|c:\\users\\lavinia.bpereira\\source\\repos\\cadastrocliente\\cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524425C-54EE-4C65-969E-CE064CC5D267}|CadastroCliente\\CadastroCliente.csproj|solutionrelative:cadastrocliente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,85 +58,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cadastrar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrar.Designer.cs",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.Designer.cs*",
+              "RelativeToolTip": "CadastroCliente\\cadastrar.Designer.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwFYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:59:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dao.cs",
+              "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\dao.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\dao.cs",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\dao.cs",
+              "RelativeToolTip": "CadastroCliente\\dao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:20:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "consultar.cs",
+              "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\consultar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\consultar.cs",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\consultar.cs",
+              "RelativeToolTip": "CadastroCliente\\consultar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:36:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "atualizar.cs",
+              "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\atualizar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\atualizar.cs",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\atualizar.cs",
+              "RelativeToolTip": "CadastroCliente\\atualizar.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:35:37.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs",
+              "RelativeDocumentMoniker": "CadastroCliente\\cadastrar.cs",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs",
+              "RelativeToolTip": "CadastroCliente\\cadastrar.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T14:34:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "encerrar.cs",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\encerrar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\encerrar.cs",
-              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\encerrar.cs*",
-              "RelativeToolTip": "CadastroCliente\\encerrar.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\encerrar.cs",
+              "RelativeToolTip": "CadastroCliente\\encerrar.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wCEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T14:13:12.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "cadastrar.cs",
-              "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs",
-              "RelativeDocumentMoniker": "CadastroCliente\\cadastrar.cs",
-              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs*",
-              "RelativeToolTip": "CadastroCliente\\cadastrar.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T13:57:28.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "encerrar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\encerrar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\encerrar.cs",
-              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\encerrar.cs [Design]*",
-              "RelativeToolTip": "CadastroCliente\\encerrar.cs [Design]*",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\encerrar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\encerrar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:43:52.563Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "atualizar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\atualizar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\atualizar.cs",
-              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\atualizar.cs [Design]*",
-              "RelativeToolTip": "CadastroCliente\\atualizar.cs [Design]*",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\atualizar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\atualizar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:43:41.587Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "consultar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\consultar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\consultar.cs",
-              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\consultar.cs [Design]*",
-              "RelativeToolTip": "CadastroCliente\\consultar.cs [Design]*",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\consultar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\consultar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:43:28.461Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "cadastrar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\cadastrar.cs",
-              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs [Design]*",
-              "RelativeToolTip": "CadastroCliente\\cadastrar.cs [Design]*",
+              "ToolTip": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\cadastrar.cs [Design]",
+              "RelativeToolTip": "CadastroCliente\\cadastrar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-28T13:43:13.622Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
@@ -132,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\lavinia.bpereira\\source\\repos\\CadastroCliente\\CadastroCliente\\Form1.cs",
               "RelativeDocumentMoniker": "CadastroCliente\\Form1.cs",
